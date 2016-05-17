@@ -1,3 +1,5 @@
 {
-	"message": "Testing volley"
+  "message": "JSON Response OK",
+  "code": 200,
+  "string": "Testing json file"
 }
